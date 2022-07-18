@@ -35,7 +35,6 @@ def main():
 
     parser.add_argument(
         '-output_dir',
-        default=None,
         type=str,
         help='Output directory including site name and date')
 
